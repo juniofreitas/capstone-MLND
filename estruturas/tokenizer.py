@@ -10,7 +10,7 @@ from estruturas.bagtok import BagTok
 
 class Tokenizer():
    '''
-    Classe que implementa tokenizacao de strings. Esta classe impplementa doi 
+    Classe que implementa tokenizacao de strings. Esta classe implementa dois 
     tipos de tokenizacao:
        1. Por token: separa o texto por palavras (tokens)
        2. Por n-gran: separa o texto por tokens de tamanho N
