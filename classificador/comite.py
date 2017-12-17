@@ -11,7 +11,7 @@ import pandas as pd
 class Comite():
    '''
     Esta classe representa um comite de classificadores conforme descrito no
-    relatorio. Esta implementacao trata apensa de classicacao binario (0 ou 1)
+    relatorio. Esta implementacao trata apenas de classicacao binaria (0 ou 1)
    '''
 
    # Estrutura que representa um item do comite: nome, modelo e peso
